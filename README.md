@@ -1,2 +1,4 @@
 # recipe
-readme folder for assingment 3
+eggs
+salt
+boil eggs , add salt
