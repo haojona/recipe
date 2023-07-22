@@ -7,3 +7,4 @@ this **<b>word</b>** is bold
 </ol>
 <h1>Recipe</h1>
 <h3>Picture</h3>
+![recipe](recipe.png)
